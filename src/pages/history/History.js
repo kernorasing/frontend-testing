@@ -38,9 +38,9 @@ export default class History extends React.Component {
                 <p id="label-page">5 รายการ ({dateNow} - {dateNow})</p>
 
                 {
-                    this.servicesHistory.map(s => {
+                    this.servicesHistory.map((s,i) => {
                         return (
-                            <Link to="/map">
+                            <Link to="/map" key={i}>
                                 <div className="service-item">
                                     <img src={carServiceImg} />
                                     <div className="service-item-info">
