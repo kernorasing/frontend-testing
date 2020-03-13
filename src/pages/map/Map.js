@@ -8,27 +8,27 @@ export default class Map extends React.Component {
         return (
             <div>
                 <div className="header">
-                    <i class="fas fa-map-marker-alt fa-2x"></i>
+                    <i className="fas fa-map-marker-alt fa-2x"></i>
                     <p>222 ถ.สุขุมวิท กรุงเทพ, ประเทศไทย</p>
-                    <i class="fas fa-compass fa-2x"></i>
+                    <i className="fas fa-compass fa-2x"></i>
                 </div>
                 <div className="map-image-card">
                     <img className="map-image" src={garageImg} />
                 </div>
                 <div className="contact">
                     <div className="contact-item">
-                        <i class="fas fa-phone-volume fa-3x"></i>
+                        <i className="fas fa-phone-volume fa-3x"></i>
                         <strong>เบอร์โทร</strong>
                     </div>
                     <div className="contact-item">
-                        <i class="far fa-comment-dots fa-3x"></i>
+                        <i className="far fa-comment-dots fa-3x"></i>
                         <strong>ข้อความ</strong>
                     </div>
                 </div>
                 <Link to="/">
                     <div className="footer">
                         <div className="footer-icon">
-                            <i class="fas fa-user-tie fa-2x"></i>
+                            <i className="fas fa-user-tie fa-2x"></i>
                         </div>
                         <div className="footer-text">
                             <strong>คลิกเพื่อโทรหาเจ้าหน้าที่</strong>
