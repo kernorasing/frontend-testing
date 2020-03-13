@@ -1,0 +1,37 @@
+#label-page {
+  text-align: center;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+p > i.fas {
+  margin-right: 0.5rem;
+}
+
+.service-item > img {
+  width: 30%;
+}
+
+.service-item {
+  display: flex;
+  align-items: flex-start;
+  padding: 0.25rem 1rem;
+}
+
+.service-item-info {
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.service-item-info p,
+.service-item-info small {
+  color: grey;
+  font-size: smaller;
+}
+
+.service-item-info-right {
+  text-align: right;
+}

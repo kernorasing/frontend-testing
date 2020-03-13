@@ -1,0 +1,45 @@
+.car-image {
+  text-align: center;
+}
+
+.car-image img {
+  width: 100%;
+  max-width: 720px;
+  border: 1px solid #666666;
+}
+
+.car-info-label,
+.remark > p {
+  margin: 0.5rem 1.5rem;
+}
+.car-info-label > p {
+  color: green;
+}
+
+.car-info {
+  border: 1px solid #999999;
+  padding: 0.5rem 1.25rem 0;
+}
+
+.car-info-item {
+  display: inline-block;
+  width: 33.33%;
+  margin-bottom: 0.5rem;
+}
+
+.car-info-item > i {
+  margin-right: 0.5rem;
+}
+
+.remark {
+  margin-top: 1.25rem;
+}
+
+.remark > p {
+  color: blue;
+}
+
+.remark > textarea {
+  width: 100%;
+  box-sizing: border-box;
+}
