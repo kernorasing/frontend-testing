@@ -1,7 +1,8 @@
 import React from 'react';
 import './Map.css';
-import garageImg from './../../assets/garage.JPG'
 import { Link } from 'react-router-dom';
+
+const garageImg = process.env.PUBLIC_URL + '/assets/garage.JPG';
 
 export default class Map extends React.Component {
     render() {

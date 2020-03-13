@@ -1,7 +1,8 @@
 import React from 'react';
 import './MyCars.css';
-import truckImg from './../../assets/my-truck.jpg';
 import { Link } from 'react-router-dom';
+
+const truckImg = process.env.PUBLIC_URL + '/assets/my-truck.jpg';
 
 class MyCars extends React.Component {
     render() {

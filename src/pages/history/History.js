@@ -1,7 +1,9 @@
 import React from 'react';
 import './History.css';
-import carServiceImg from '../../assets/car-service.png';
 import { Link } from 'react-router-dom';
+
+const carServiceImg = process.env.PUBLIC_URL + '/assets/car-service.png';
+
 
 export default class History extends React.Component {
 
