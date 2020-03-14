@@ -8,7 +8,7 @@ import Map from '../../pages/map/Map';
 export default class Container extends React.Component {
     render() {
         return (
-            <Router>
+            <Router basename="/frontend-testing">
                 <Switch>
                     <Route exact path="/mycar">
                         <MyCars />
