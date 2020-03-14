@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/frontend-testing/static/css/main.4f21de2b.chunk.css",
-    "main.js": "/frontend-testing/static/js/main.0afb6d31.chunk.js",
-    "main.js.map": "/frontend-testing/static/js/main.0afb6d31.chunk.js.map",
+    "main.js": "/frontend-testing/static/js/main.a72eb01d.chunk.js",
+    "main.js.map": "/frontend-testing/static/js/main.a72eb01d.chunk.js.map",
     "runtime-main.js": "/frontend-testing/static/js/runtime-main.7a19d715.js",
     "runtime-main.js.map": "/frontend-testing/static/js/runtime-main.7a19d715.js.map",
     "static/css/2.1bd75017.chunk.css": "/frontend-testing/static/css/2.1bd75017.chunk.css",
     "static/js/2.af643868.chunk.js": "/frontend-testing/static/js/2.af643868.chunk.js",
     "static/js/2.af643868.chunk.js.map": "/frontend-testing/static/js/2.af643868.chunk.js.map",
     "index.html": "/frontend-testing/index.html",
-    "precache-manifest.0594ba1d548f426778f9962d914174d3.js": "/frontend-testing/precache-manifest.0594ba1d548f426778f9962d914174d3.js",
+    "precache-manifest.98ca68c15a0b45bb8f1d39d71816fa8f.js": "/frontend-testing/precache-manifest.98ca68c15a0b45bb8f1d39d71816fa8f.js",
     "service-worker.js": "/frontend-testing/service-worker.js",
     "static/css/2.1bd75017.chunk.css.map": "/frontend-testing/static/css/2.1bd75017.chunk.css.map",
     "static/css/main.4f21de2b.chunk.css.map": "/frontend-testing/static/css/main.4f21de2b.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.1bd75017.chunk.css",
     "static/js/2.af643868.chunk.js",
     "static/css/main.4f21de2b.chunk.css",
-    "static/js/main.0afb6d31.chunk.js"
+    "static/js/main.a72eb01d.chunk.js"
   ]
 }
